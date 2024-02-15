@@ -9,8 +9,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/chakra-petch": "^0.2.3",
+    "@expo-google-fonts/julee": "^0.2.3",
     "axios": "^1.6.7",
     "expo": "~50.0.6",
+    "expo-font": "~11.10.2",
+    "expo-linear-gradient": "^12.7.1",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
     "react-native": "0.73.4"
